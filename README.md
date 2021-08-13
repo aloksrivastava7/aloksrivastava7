@@ -1,6 +1,6 @@
-# Hello everyone 👋, This is Alok Srivastava
+# Hello everyone 👋 This is Alok Srivastava
 ### Student || Developer
-I'm currently in 3rd year of my graduation on my way of becoming a successful Computer Science Engineer.
+currently in 3rd year of my graduation on the way of becoming a successful Computer Science Engineer.
 
 ## Skills and Experience
 
