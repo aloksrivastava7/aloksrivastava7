@@ -9,5 +9,6 @@
 - 😄 Pronouns: I, Me, Myself....
 - ⚡ Fun fact: Nobody knows me....
 
-[![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloksrivastava7)](https://github.com/anuraghazra/github-readme-stats)
+![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloksrivastava7&show_icons=true&theme=dark)
+
 
