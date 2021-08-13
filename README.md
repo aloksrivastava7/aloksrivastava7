@@ -1,8 +1,8 @@
-### Hello everyone 👋, This is Alok Srivastava
-#### Student || Developer
+# Hello everyone 👋, This is Alok Srivastava
+### Student || Developer
 I'm currently in 3rd year of my graduation on my way of becoming a successful Computer Science Engineer.
 
-##Skills and Experience
+## Skills and Experience
 
 * 💻 HTML / CSS / JS / NodeJS / Java / Python 
 
