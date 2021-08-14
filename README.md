@@ -15,7 +15,7 @@ currently in 3rd year of my graduation on the way of becoming a Computer Science
 
 ![Alok's GitHub stats](https://github-readme-stats.vercel.app/api?username=aloksrivastava7&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloksrivastava7&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aloksrivastava7&layout=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
