@@ -4,7 +4,7 @@ currently in 3rd year of my graduation on the way of becoming a Computer Science
 
 ## Skills and Experience
 
-* 💻 HTML / CSS / JS / NodeJS / Java / Python 
+* 💻 Web Developer / Java 
 * 🏏⚽ Sports
 * 📷 Photography
 
