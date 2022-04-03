@@ -1,6 +1,9 @@
 # Hello everyone 👋 This is Alok Srivastava
 ### Student || Developer 
-Currently in 3rd year of my graduation on the way of becoming a Software Engineer.
+I'm a Pre-Final year student working on my technical and professional skills and trying to secure a responsible career opportunity in a reputed
+organization to fully utilize my training and skills, while making a significant contribution to the success of the organization. I'm good at problem
+solving with a good idea of Data Structures and Algorithms. I'm driven with the ability of absorbing technical knowledge quickly. I'm an active listener
+and enjoy working in a team environment.
 
 ## Skills and Experience
 
