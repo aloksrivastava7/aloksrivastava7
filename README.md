@@ -1,15 +1,10 @@
 # Hello everyone 👋 This is Alok Srivastava
 ### Student || Developer 
-I'm a Pre-Final year student working on my technical and professional skills and trying to secure a responsible career opportunity in a reputed
-organization to fully utilize my training and skills, while making a significant contribution to the success of the organization. I'm good at problem
-solving with a good idea of Data Structures and Algorithms. I'm driven with the ability of absorbing technical knowledge quickly. I'm an active listener
-and enjoy working in a team environment.
+I was born and raised up in Prayagraj, India. I'm in the final year of my graduation. Currently I'm trying to enhance both my technical and professional skills as much as possible in order to secure a responsible career opportunity. I'm detail-oriented and someone who always looks for doing things in a creative way.
 
 ## Skills and Experience
 
-* 💻 Web Developer / Java 
-* 🏏⚽ Sports
-* 📷 Photography
+* 💻 Front-end Developer / Java 
 
 ## Find me on ......
 
