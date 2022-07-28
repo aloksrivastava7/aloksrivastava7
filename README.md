@@ -4,7 +4,11 @@ I was born and raised up in Prayagraj, India. I'm in the final year of my gradua
 
 ## Skills and Experience
 
-* 💻 Front-end Developer / Java 
+*  Front-end Technologies
+*  Java
+*  Javascript
+*  SQL / MongoDB
+*  Problem Solving
 
 ## Find me on ......
 
