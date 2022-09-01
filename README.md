@@ -1,13 +1,13 @@
 # Hello everyone 👋 This is Alok Srivastava
-### Student || Developer 
-I was born and raised up in Prayagraj, India. I'm in the final year of my graduation. Currently I'm trying to enhance both my technical and professional skills as much as possible in order to secure a responsible career opportunity. I'm detail-oriented and someone who always looks for doing things in a creative way.
+### Consultant at CGInfinity 
 
 ## Skills and Experience
 
-*  Front-end Technologies
+*  Front-end Technologies 
 *  Java
 *  Javascript
-*  SQL / MongoDB
+*  MS SQL / MongoDB
+*  C#
 *  Problem Solving
 
 ## Find me on ......
