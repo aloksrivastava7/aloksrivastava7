@@ -1,5 +1,4 @@
 # Hello everyone 👋 This is Alok Srivastava
-### Consultant
 
 ## Skills and Experience
 
