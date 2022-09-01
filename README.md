@@ -1,5 +1,5 @@
 # Hello everyone 👋 This is Alok Srivastava
-### Consultant at CGInfinity 
+### Consultant
 
 ## Skills and Experience
 
