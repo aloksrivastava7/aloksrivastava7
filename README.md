@@ -6,7 +6,6 @@
 *  Java
 *  Javascript
 *  MS SQL / MongoDB
-*  C#
 *  Problem Solving
 
 ## Find me on ......
