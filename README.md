@@ -1,12 +1,16 @@
 # Hello everyone 👋 This is Alok Srivastava
 
-## Skills and Experience
+## Skills
 
-*  Front-end Technologies 
+*  MERN Stack
 *  Java
 *  Javascript
-*  MS SQL / MongoDB
-*  Problem Solving
+*  .NET Core
+*  MS SQL
+*  Salesforce
+## Experience
+
+* Experience of working in projects of Energy Utility Domain.
 
 ## Find me on ......
 
