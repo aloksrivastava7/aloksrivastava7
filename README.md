@@ -2,15 +2,16 @@
 
 ## Skills
 
-*  MERN Stack
 *  Java
 *  Javascript
-*  .NET Core
+*  Reactjs
+*  MongoDB
 *  MS SQL
 *  Salesforce
+  
 ## Experience
 
-* Experience of working in projects of Energy Utility Domain.
+* Experienced Professional specializing in the energy utility domain as a Full Stack Developer, with current focus on the Salesforce Energy and Utility Cloud. In my capacity, I'm currently working on Salesforce. Additionally, I also have experience working on Reactjs. I have a strong foundation in agile software development methodologies. I've worked on Agile model.
 
 ## Find me on ......
 
