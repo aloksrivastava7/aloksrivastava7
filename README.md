@@ -7,11 +7,15 @@
 *  Reactjs
 *  MongoDB
 *  MS SQL
-*  Salesforce
+*  Salesforce Marketing Cloud
+*  Salesforce Energy & Utility Cloud
+*  Salesforce Sales & Service Cloud
+*  Salesforce LWC
+*  Salesforce Apex
   
 ## Experience
 
-* Experienced Professional specializing in the energy utility domain as a Full Stack Developer, with current focus on the Salesforce Energy and Utility Cloud. In my capacity, I'm currently working on Salesforce. Additionally, I also have experience working on Reactjs. I have a strong foundation in agile software development methodologies. I've worked on Agile model.
+* I am an experienced Salesforce professional with a strong focus on the Energy domain. Over the past few years, I have honed my skills as a Salesforce developer, working extensively across Energy and Utility Cloud, Sales Cloud, Service Cloud, and Marketing Cloud. My current specialization lies in Salesforce Marketing Cloud, where I focus on crafting tailored solutions. I bring a robust technical foundation in Java, JavaScript, and database systems like MySQL and MongoDB, along with proficiency in React.js.. Additionally, I have substantial experience in agile software development methodologies, consistently collaborating with cross-functional teams to deliver high-quality solutions under tight deadlines.
 
 ## Find me on ......
 
